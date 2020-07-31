@@ -1,0 +1,4 @@
+E:\aaa\longteng04\MyOWIN\LinJjie\ConsoleRabbitMQ\bin\Debug\netcoreapp3.1\ConsoleRabbitMQ.exe
+E:\aaa\longteng04\MyOWIN\LinJjie\ConsoleRabbitMQ\obj\Debug\netcoreapp3.1\ConsoleRabbitMQ.csprojAssemblyReference.cache
+E:\aaa\longteng04\MyOWIN\LinJjie\ConsoleRabbitMQ\obj\Debug\netcoreapp3.1\ConsoleRabbitMQ.AssemblyInfoInputs.cache
+E:\aaa\longteng04\MyOWIN\LinJjie\ConsoleRabbitMQ\obj\Debug\netcoreapp3.1\ConsoleRabbitMQ.AssemblyInfo.cs
