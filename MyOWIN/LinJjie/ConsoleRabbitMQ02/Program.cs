@@ -2,7 +2,7 @@
 using System;
 using RabbitMQ.Client.Events;
 
-namespace ConsoleRabbitMQ01
+namespace ConsoleRabbitMQ02
 {
     class Program
     {
@@ -43,7 +43,7 @@ namespace ConsoleRabbitMQ01
                     ////手动确认，非正常消费即出错出现异常，通知消息中心，手动确认的话，自动确认要设置为false，autoAck: true,
                     //BasicReject 中requeue: true 告诉消息队列，出错，但是重新把消息插入到队列中，下次使用
                     //BasicReject 中requeue: false 告诉消息队列，出错，删除该条消息
-                    channel.BasicReject(e.DeliveryTag,requeue: true);
+                    channel.BasicReject(e.DeliveryTag, requeue: true);
                     //channel.BasicConsume(queue: "myqueue", autoAck: false, consumer);
 
                     //autoAck: true,自动确认，表示已成功从消息队列中读取消息，通知消息队列

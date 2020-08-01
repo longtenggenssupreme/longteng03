@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRabbitMQ", "ConsoleRabbitMQ\ConsoleRabbitMQ.csproj", "{31D5C237-8231-436D-A0BA-413A7A70D907}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleRabbitMQ", "ConsoleRabbitMQ\ConsoleRabbitMQ.csproj", "{31D5C237-8231-436D-A0BA-413A7A70D907}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRabbitMQ01", "ConsoleRabbitMQ01\ConsoleRabbitMQ01.csproj", "{AB679368-D077-4478-9048-63446908336B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleRabbitMQ01", "ConsoleRabbitMQ01\ConsoleRabbitMQ01.csproj", "{AB679368-D077-4478-9048-63446908336B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRabbitMQ02", "ConsoleRabbitMQ02\ConsoleRabbitMQ02.csproj", "{BAEAF2CA-E513-4F66-BEC5-F15B84D289F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AB679368-D077-4478-9048-63446908336B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB679368-D077-4478-9048-63446908336B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB679368-D077-4478-9048-63446908336B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAEAF2CA-E513-4F66-BEC5-F15B84D289F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEAF2CA-E513-4F66-BEC5-F15B84D289F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEAF2CA-E513-4F66-BEC5-F15B84D289F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEAF2CA-E513-4F66-BEC5-F15B84D289F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
